@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receipt Fraud Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Receipt PDF for Fraud Detection</h1>
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+            <label for="file">Choose a PDF file to upload:</label>
+            <input type="file" id="file" name="file" accept="application/pdf" required>
+            <button type="submit">Upload and Check Fraud</button>
+        </form>
+    </div>
+</body>
+</html>

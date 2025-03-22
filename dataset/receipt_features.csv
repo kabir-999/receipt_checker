@@ -1,0 +1,21 @@
+filename,receipt_id,store_name,date,subtotal,tax_name,tax_percentage,tax_amount,total_amount,currency,item_count
+REC-005.pdf,REC-005,ElectroWorld,2025-03-22,450.0,GST,5.0,22.5,472.5,Rs.,3
+REC-012.pdf,REC-012,ElectroWorld,2025-03-22,3705.0,GST,5.0,185.25,3890.25,Rs.,5
+REC-015.pdf,REC-015,ShopEasy Mart,2025-03-22,2505.0,GST,5.0,125.25,2630.25,Rs.,5
+REC-013.pdf,REC-013,ElectroWorld,2025-03-22,1280.0,GST,5.0,64.0,1344.0,Rs.,3
+REC-019.pdf,REC-019,Grocers Paradise,2025-03-22,1325.0,GST,5.0,66.25,1391.25,Rs.,3
+REC-010.pdf,REC-010,ShopEasy Mart,2025-03-22,3590.0,GST,5.0,179.5,3769.5,Rs.,5
+REC-009.pdf,REC-009,ShopEasy Mart,2025-03-22,1260.0,GST,5.0,63.0,1323.0,Rs.,3
+REC-018.pdf,REC-018,Grocers Paradise,2025-03-22,2880.0,GST,5.0,144.0,3024.0,Rs.,5
+REC-006.pdf,REC-006,ElectroWorld,2025-03-22,3500.0,GST,5.0,175.0,3675.0,Rs.,3
+REC-020.pdf,REC-020,ShopEasy Mart,2025-03-22,785.0,GST,5.0,39.25,824.25,Rs.,5
+REC-016.pdf,REC-016,ElectroWorld,2025-03-22,1385.0,GST,5.0,69.25,1454.25,Rs.,5
+REC-001.pdf,REC-001,Grocers Paradise,2025-03-22,2660.0,GST,5.0,133.0,2793.0,Rs.,5
+REC-011.pdf,REC-011,ShopEasy Mart,2025-03-22,1900.0,GST,5.0,95.0,1995.0,Rs.,4
+REC-017.pdf,REC-017,Grocers Paradise,2025-03-22,1870.0,GST,5.0,93.5,1963.5,Rs.,4
+REC-004.pdf,REC-004,ElectroWorld,2025-03-22,400.0,GST,5.0,20.0,420.0,Rs.,3
+REC-007.pdf,REC-007,ElectroWorld,2025-03-22,320.0,GST,5.0,16.0,336.0,Rs.,5
+REC-008.pdf,REC-008,Grocers Paradise,2025-03-22,1910.0,GST,5.0,95.5,2005.5,Rs.,4
+REC-003.pdf,REC-003,Grocers Paradise,2025-03-22,1520.0,GST,5.0,76.0,1596.0,Rs.,3
+REC-002.pdf,REC-002,ElectroWorld,2025-03-22,1090.0,GST,5.0,54.5,1144.5,Rs.,4
+REC-014.pdf,REC-014,ShopEasy Mart,2025-03-22,480.0,GST,5.0,24.0,504.0,Rs.,5
